@@ -11,3 +11,4 @@ if original == reverse:
     print("Palindrome Number")
 else:
     print("Not a Palindrome Number")
+1234567890
